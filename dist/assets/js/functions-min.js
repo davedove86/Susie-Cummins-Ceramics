@@ -1,0 +1,1 @@
+const navSlide=()=>{const e=document.querySelector(".burger"),n=document.querySelector(".nav-links");e.addEventListener("click",()=>{n.classList.toggle("nav-active")})};navSlide();
